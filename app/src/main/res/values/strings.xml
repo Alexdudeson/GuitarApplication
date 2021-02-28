@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuitarApplication</string>
+    <string name="music_shop">Music Shop</string>
+    <string name="MusicShopBaner">ToBeDone</string>
+    <string name="EnterYourName">Enter Your Name</string>
+    <string name="Items">Goods</string>
+    <string name="textview">Quantaty</string>
+</resources>
